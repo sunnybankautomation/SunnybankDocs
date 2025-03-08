@@ -3,4 +3,4 @@
 <p>Home automation server <a href="http:\\OPI3.SUNNYBANK"> OPI3.SUNNYBANK </a>
 <p>Homelab server <a href="http:\\HOMELAB.SUNNYBANK"> HOMELAB.SUNNYBANK </a>
 
-<p>Homelab server <a href="./wiki"> Main Documentation </a>
+<p>MAIN DOCUMENTATION <a href="./wiki"> Main Documentation </a>
